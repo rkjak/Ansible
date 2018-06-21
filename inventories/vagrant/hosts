@@ -1,0 +1,3 @@
+---
+[centos]
+centos74a ansible_ssh_host=10.10.10.180
